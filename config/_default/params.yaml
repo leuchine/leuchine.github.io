@@ -72,7 +72,7 @@ features:
   repository:
     url: 'https://github.com/<username>/<repository>'
     content_dir: content
-    branch: master
+    branch: main
   avatar:
     gravatar: false
     shape: circle
