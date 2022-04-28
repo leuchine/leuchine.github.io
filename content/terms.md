@@ -1,7 +1,7 @@
 ---
 title: Terms
 date: 2022-04-28T11:52:42.904Z
-draft: false
+draft: true
 share: false
 commentable: false
 editable: false
