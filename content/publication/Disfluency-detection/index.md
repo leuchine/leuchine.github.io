@@ -3,7 +3,7 @@ draft: false
 url_pdf: https://arxiv.org/abs/1908.05378
 title: Multi-Task Self-Supervised Learning for Disfluency Detection
 publication_types:
-  - "2"
+  - "1"
 authors:
   - Shaolei Wang
   - Wanxiang Che
