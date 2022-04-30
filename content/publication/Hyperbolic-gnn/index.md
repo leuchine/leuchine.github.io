@@ -1,10 +1,9 @@
 ---
 draft: false
 url_pdf: https://arxiv.org/pdf/1910.12892.pdf
-url_code: https://github.com/facebookresearch/hgnn
 title: Hyperbolic Graph Neural Networks
 publication_types:
-  - "2"
+  - "1"
 authors:
   - Qi Liu
   - Maximilian Nickel
@@ -17,4 +16,5 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2019-12-01T05:55:18.452Z
+url_code: https://github.com/facebookresearch/hgnn
 ---
