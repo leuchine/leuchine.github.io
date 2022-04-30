@@ -3,6 +3,7 @@ title: Investigating Pose Representations and Motion Contexts Modeling for 3D
   Motion Prediction
 publication_types:
   - "2"
+url_pdf: https://arxiv.org/abs/2112.15012
 authors:
   - Zhenguang Liu
   - Shuang Wu
