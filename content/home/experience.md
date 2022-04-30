@@ -23,12 +23,13 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Scientist Intern
-    company: Google DeepMind
+    company: Google DeepMind 
     company_url: ''
     company_logo: deepmind
     location: London
     date_start: '2020-07-01'
     date_end: '2021-06-01'
+    description: Advisors: Phil Blunsom, Dani Yogatama, Lei Yu, Laura Rimell
 
   - title: Researcher
     company: Facebook AI Research
@@ -37,6 +38,7 @@ experience:
     location: New York City
     date_start: '2018-08-01'
     date_end: '2019-08-01'
+    description: Advisors: Douwe Kiela, Maximilian Nickel
 
   - title: Research Intern
     company: Microsoft Research
@@ -45,22 +47,26 @@ experience:
     location: Cambridge
     date_start: '2018-03-01'
     date_end: '2018-06-01'
+    description: Advisors: Alexander Gaunt, Marc Brockschmidt, Miltos Allamanis
 
   - title: Research Assistant
-    company: SUTD
+    company: SUTD, 
     company_url: ''
     company_logo: sutd
     location: Singapore
     date_start: '2017-02-01'
     date_end: '2018-06-01'
+    description: Advisor: Yue Zhang
 
   - title: Research Intern
-    company: Microsoft Research
+    company: Microsoft Research, 
     company_url: ''
     company_logo: microsoft
     location: Beijing
     date_start: '2016-09-01'
     date_end: '2016-12-01'
+    description: Advisors: Ying Yan, Thomas Moscibroda
+
 
 design:
   columns: '2'
