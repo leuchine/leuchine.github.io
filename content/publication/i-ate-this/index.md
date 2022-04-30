@@ -3,7 +3,7 @@ draft: false
 url_pdf: https://arxiv.org/abs/1702.05957
 title: "I Ate This: A Photo-based Food Journaling System with Expert Feedback"
 publication_types:
-  - "2"
+  - "1"
 authors:
   - Shubham Goyal
   - Qi Liu
