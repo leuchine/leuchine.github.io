@@ -3,7 +3,7 @@ draft: false
 url_pdf: https://www.aclweb.org/anthology/2021.naacl-main.18.pdf
 title: Counterfactual Data Augmentation for Neural Machine Translation
 publication_types:
-  - "2"
+  - "1"
 authors:
   - Qi Liu
   - Matt J. Kusner
