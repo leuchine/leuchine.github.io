@@ -27,8 +27,8 @@ organizations:
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: "University of Oxford, Advisor: Phil Blunsom, Matt Kusner"
-      year: 2022
+      institution: "University of Oxford, Advisors: Phil Blunsom, Matt Kusner"
+      year: 2021
     - course: MSc in Computer Science
       institution: "National University of Singapore, Advisor: Anthony K.H. Tung"
       year: 2016
