@@ -15,7 +15,7 @@ subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: 2006
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -31,22 +31,30 @@ item:
     organization_url: ''
     title: AMiner AI Most Influential Scholar
     url: ''
-  - certificate_url: https://www.edx.org
+  - certificate_url: 
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+    date_start: '2019-01-01'
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+    organization: Google DeepMind
+    organization_url: ''
+    title: Google DeepMind Scholarship
+    url: '' 
+  - certificate_url: 
+    date_end: ''
+    date_start: '2017-01-01'
+    description: ''
+    organization: SMU
+    organization_url: ''
+    title: Lee Kuan Yew Global Business Plan Competition Winner (3 out of 550)
+    url: '' 
+  - certificate_url: 
+    date_end: ''
+    date_start: '2014-01-01'
+    description: ''
+    organization: NUS
+    organization_url: ''
+    title: NUS Research Scholarship
+    url: '' 
 
 design:
   columns: '2'
