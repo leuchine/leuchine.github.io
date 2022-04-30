@@ -1,10 +1,9 @@
 ---
 draft: false
 url_pdf: https://arxiv.org/pdf/1904.10281.pdf
-url_code: https://github.com/cheungdaven/QuatE
 title: Quaternion Knowledge Graph Embedding
 publication_types:
-  - "2"
+  - "1"
 authors:
   - Shuai Zhang
   - Yi Tay
@@ -18,4 +17,5 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2019-11-01T05:55:18.452Z
+url_code: https://github.com/cheungdaven/QuatE
 ---
