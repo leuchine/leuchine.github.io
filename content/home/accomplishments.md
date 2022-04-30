@@ -15,7 +15,7 @@ subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: 2006
+date_format: Jan 2006
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -33,7 +33,7 @@ item:
     url: ''
   - certificate_url: 
     date_end: ''
-    date_start: '2019-01-01'
+    date_start: '2019-09-01'
     description: ''
     organization: Google DeepMind
     organization_url: ''
@@ -41,7 +41,7 @@ item:
     url: '' 
   - certificate_url: 
     date_end: ''
-    date_start: '2017-01-01'
+    date_start: '2017-08-01'
     description: ''
     organization: SMU
     organization_url: ''
@@ -49,7 +49,7 @@ item:
     url: '' 
   - certificate_url: 
     date_end: ''
-    date_start: '2014-01-01'
+    date_start: '2014-09-01'
     description: ''
     organization: NUS
     organization_url: ''
