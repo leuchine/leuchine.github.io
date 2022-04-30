@@ -29,7 +29,7 @@ experience:
     location: London
     date_start: '2020-07-01'
     date_end: '2021-06-01'
-    description: Advisors: Phil Blunsom, Dani Yogatama, Lei Yu, Laura Rimell
+    description: 'Advisors: Phil Blunsom, Dani Yogatama, Lei Yu, Laura Rimell'
 
   - title: Researcher
     company: Facebook AI Research
@@ -38,7 +38,7 @@ experience:
     location: New York City
     date_start: '2018-08-01'
     date_end: '2019-08-01'
-    description: Advisors: Douwe Kiela, Maximilian Nickel
+    description: 'Advisors: Douwe Kiela, Maximilian Nickel'
 
   - title: Research Intern
     company: Microsoft Research
@@ -47,7 +47,7 @@ experience:
     location: Cambridge
     date_start: '2018-03-01'
     date_end: '2018-06-01'
-    description: Advisors: Alexander Gaunt, Marc Brockschmidt, Miltos Allamanis
+    description: 'Advisors: Alexander Gaunt, Marc Brockschmidt, Miltos Allamanis'
 
   - title: Research Assistant
     company: SUTD, 
@@ -56,7 +56,7 @@ experience:
     location: Singapore
     date_start: '2017-02-01'
     date_end: '2018-06-01'
-    description: Advisor: Yue Zhang
+    description: 'Advisor: Yue Zhang'
 
   - title: Research Intern
     company: Microsoft Research, 
@@ -65,7 +65,7 @@ experience:
     location: Beijing
     date_start: '2016-09-01'
     date_end: '2016-12-01'
-    description: Advisors: Ying Yan, Thomas Moscibroda
+    description: 'Advisors: Ying Yan, Thomas Moscibroda'
 
 
 design:
