@@ -30,6 +30,13 @@ experience:
     date_start: '2020-07-01'
     date_end: '2021-06-01'
 
+  - title: Researcher
+    company: Facebook AI Research
+    company_url: 'facebook'
+    company_logo: 
+    location: New York City
+    date_start: '2018-08-01'
+    date_end: '2019-08-01'
 
 design:
   columns: '2'
