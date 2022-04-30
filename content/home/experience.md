@@ -25,7 +25,7 @@ experience:
   - title: Research Scientist Intern
     company: Google DeepMind
     company_url: ''
-    company_logo: deepmind.jpeg
+    company_logo: deepmind
     location: London
     date_start: '2020-07-01'
     date_end: '2021-06-01'
