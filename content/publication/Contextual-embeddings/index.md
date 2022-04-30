@@ -3,7 +3,7 @@ draft: false
 url_pdf: https://arxiv.org/abs/2003.07278
 title: A Survey on Contextual Embeddings
 publication_types:
-  - "2"
+  - "3"
 authors:
   - Qi Liu
   - Matt J. Kusner
