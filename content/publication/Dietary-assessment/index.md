@@ -3,7 +3,7 @@ draft: false
 url_pdf: https://ojs.aaai.org/index.php/AAAI/article/view/11848
 title: Multi-modal Multi-task Learning for Automatic Dietary Assessment
 publication_types:
-  - "2"
+  - "1"
 authors:
   - Qi Liu
   - Yue Zhang
