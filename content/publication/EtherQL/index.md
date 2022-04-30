@@ -2,7 +2,7 @@
 draft: false
 url_pdf: https://link.springer.com/chapter/10.1007/978-3-319-55699-4_34
 url_code: https://github.com/LeonSpark/EtherQL
-title: EtherQL: A Query Layer for Blockchain
+title: "EtherQL: A Query Layer for Blockchain"
 publication_types:
   - "2"
 authors:
