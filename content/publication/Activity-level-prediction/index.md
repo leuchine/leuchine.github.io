@@ -1,6 +1,6 @@
 ---
 draft: false
-url_pdf: https://leuchine.github.io/papers/tomm17.pdf
+url_pdf: https://dl.acm.org/doi/10.1145/3187011
 title: Towards Personalized Activity Level Prediction in Community Question Answering Websites
 publication_types:
   - "2"

@@ -1,6 +1,6 @@
 ---
 draft: false
-url_pdf: https://leuchine.github.io/papers/cikm17.pdf
+url_pdf: https://dl.acm.org/doi/10.1145/3132847.3132934
 title: "QALink: Enrich Text Documents with Relevant Q&A Site Contents"
 publication_types:
   - "1"
