@@ -1,7 +1,7 @@
 ---
 title: Qi Liu
 role: PhD Student at the University of Oxford
-avatar_filename: photo.jpeg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Natural Language Processing
