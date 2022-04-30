@@ -3,7 +3,7 @@ draft: false
 url_pdf: https://arxiv.org/pdf/2002.04700.pdf
 title: A Single RGB Camera Based Gait Analysis with a Mobile Tele-Robot for Healthcare
 publication_types:
-  - "2"
+  - "3"
 authors:
   - Ziyang Wang
   - Fani Deligianni
