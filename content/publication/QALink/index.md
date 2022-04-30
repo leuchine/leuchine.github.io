@@ -3,7 +3,7 @@ draft: false
 url_pdf: https://leuchine.github.io/papers/cikm17.pdf
 title: "QALink: Enrich Text Documents with Relevant Q&amp;A Site Contents"
 publication_types:
-  - "2"
+  - "1"
 authors:
   - Yixuan Tang
   - Weilong Huang
