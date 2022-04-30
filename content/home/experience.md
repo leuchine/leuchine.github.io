@@ -32,11 +32,35 @@ experience:
 
   - title: Researcher
     company: Facebook AI Research
-    company_url: 'facebook'
-    company_logo: 
+    company_url: ''
+    company_logo: facebook
     location: New York City
     date_start: '2018-08-01'
     date_end: '2019-08-01'
+
+  - title: Research Intern
+    company: Microsoft Research
+    company_url: ''
+    company_logo: microsoft
+    location: Cambridge
+    date_start: '2018-03-01'
+    date_end: '2018-06-01'
+
+  - title: Research Assistant
+    company: SUTD
+    company_url: ''
+    company_logo: sutd
+    location: Singapore
+    date_start: '2017-02-01'
+    date_end: '2018-06-01'
+
+  - title: Research Intern
+    company: Microsoft Research
+    company_url: ''
+    company_logo: microsoft
+    location: Beijing
+    date_start: '2016-09-01'
+    date_end: '2016-12-01'
 
 design:
   columns: '2'
