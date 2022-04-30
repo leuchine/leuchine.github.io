@@ -1,9 +1,10 @@
 ---
 draft: false
 url_pdf: https://dl.acm.org/doi/10.1145/2723372.2735379
-title: "DocRicher: An Automatic Annotation System for Text Documents Using Social Media"
+title: "DocRicher: An Automatic Annotation System for Text Documents Using
+  Social Media"
 publication_types:
-  - "2"
+  - "1"
 authors:
   - Qiang Hu
   - Qi Liu
