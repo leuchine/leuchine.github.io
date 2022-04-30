@@ -1,10 +1,10 @@
 ---
 draft: false
 url_pdf: https://aclanthology.org/N18-1050/
-url_code: https://github.com/leuchine/multi-domain-sentiment
-title: Learning Domain-specific Representations for Multi-Domain Sentiment Classification
+title: Learning Domain-specific Representations for Multi-Domain Sentiment
+  Classification
 publication_types:
-  - "2"
+  - "1"
 authors:
   - Qi Liu
   - Yue Zhang
@@ -17,4 +17,5 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2018-03-01T05:55:18.452Z
+url_code: https://github.com/leuchine/multi-domain-sentiment
 ---
