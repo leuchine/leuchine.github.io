@@ -21,7 +21,7 @@ I have multiple fully-funded PhD, MPhil, Postdoc, RA, and intern positions at th
 
 #### Goal and Style
 
-The goal of research is to generate knowledge and train new researchers. I have worked with a few amazing researchers and mentors and I do believe in the power of advising. I hope to build a small, close-knit, and focused group, where I value one-on-one meetings with group members and team collaboration. The prime motivation for publishing papers is to provide insights and make real-world impact. Eventually, I hope my students can develop their own research tastes and pursue their research agenda independently. 
+The goal of research is to generate knowledge and train new researchers. I have worked with a few amazing researchers and mentors and I do believe in the power of advising. I hope to build a close-knit and focused group, where I value one-on-one meetings with group members and team collaboration. The prime motivation for publishing papers is to provide insights and make real-world impact. Eventually, I hope my students can develop their own research tastes and pursue their research agenda independently. 
 
 #### Ongoing Projects
 
