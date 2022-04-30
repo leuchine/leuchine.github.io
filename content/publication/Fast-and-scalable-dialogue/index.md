@@ -3,7 +3,7 @@ draft: false
 url_pdf: https://www.aclweb.org/anthology/2021.naacl-main.27.pdf
 title: Fast and Scalable Dialogue State Tracking with Explicit Modular Decomposition
 publication_types:
-  - "2"
+  - "1"
 authors:
   - Dingmin Wang
   - Chenghua Lin
