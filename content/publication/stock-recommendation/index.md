@@ -1,10 +1,9 @@
 ---
 draft: false
 url_pdf: https://aclanthology.org/N18-1191/
-url_code: https://github.com/leuchine/concept-stock-recommendation
 title: Mining Evidences for Concept Stock Recommendation
 publication_types:
-  - "2"
+  - "1"
 authors:
   - Qi Liu
   - Yue Zhang
@@ -16,4 +15,5 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2018-04-01T05:55:18.452Z
+url_code: https://github.com/leuchine/concept-stock-recommendation
 ---
