@@ -1,7 +1,7 @@
 ---
 draft: false
 url_pdf: https://ieeexplore.ieee.org/document/7776928
-title: Fusion of Magnetic and Visual Sensors for Indoor Localization: Infrastructure-free and More Effective
+title: "Fusion of Magnetic and Visual Sensors for Indoor Localization: Infrastructure-free and More Effective"
 publication_types:
   - "2"
 authors:
