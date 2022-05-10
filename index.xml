@@ -9,7 +9,7 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Student Recruitment</title><link>https://example.com/post/getting-started/</link><pubDate>Sat, 30 Apr 2022 11:50:06 +0000</pubDate><guid>https://example.com/post/getting-started/</guid><description>&lt;p>I have multiple fully-funded PhD, MPhil, Postdoc, RA, and intern positions at the University of Hong Kong. &lt;/p>
+&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Student Recruitment</title><link>https://example.com/post/recruitment/</link><pubDate>Sat, 30 Apr 2022 11:50:06 +0000</pubDate><guid>https://example.com/post/recruitment/</guid><description>&lt;p>I have multiple fully-funded PhD, MPhil, Postdoc, RA, and intern positions at the University of Hong Kong. &lt;/p>
 &lt;h4 id="goal-and-style">Goal and Style&lt;/h4>
 &lt;p>The goal of research is to generate knowledge and train new researchers. I have worked with a few amazing researchers and mentors and I do believe in the power of advising. I hope to build a close-knit and focused group, where I value one-on-one meetings with group members and team collaboration. The prime motivation for publishing papers is to provide insights and make real-world impact. Eventually, I hope my students can develop their own research tastes and pursue their research agenda independently. &lt;/p>
 &lt;h4 id="ongoing-projects">Ongoing Projects&lt;/h4>
@@ -24,6 +24,7 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;ol>
 &lt;li>CV.&lt;/li>
 &lt;li>Transcripts.&lt;/li>
+&lt;li>Research proposal.&lt;/li>
 &lt;li>Selected publications (if any).&lt;/li>
 &lt;li>Github (if any).&lt;/li>
 &lt;li>Toefl/GRE/IELTS (if any).&lt;/li>
