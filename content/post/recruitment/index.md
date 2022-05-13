@@ -40,4 +40,4 @@ To get to know applicants better, please send the following documents to me. I w
 3. Research proposal.
 4. Selected publications (if any).
 5. Github (if any).
-6. Toefl/GRE/IELTS (if any).
+6. TOEFL/GRE/IELTS (if any).

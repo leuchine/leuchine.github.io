@@ -50,7 +50,7 @@ experience:
     description: 'Advisors: Alexander Gaunt, Marc Brockschmidt, Miltos Allamanis'
 
   - title: Research Assistant
-    company: SUTD, 
+    company: SUTD 
     company_url: ''
     company_logo: sutd
     location: Singapore
@@ -59,7 +59,7 @@ experience:
     description: 'Advisor: Yue Zhang'
 
   - title: Research Intern
-    company: Microsoft Research, 
+    company: Microsoft Research 
     company_url: ''
     company_logo: microsoft
     location: Beijing
