@@ -33,7 +33,7 @@ My research interests include natural language processing and machine learning. 
 
 #### Documents
 
-To get to know applicants better, please send the following documents to me. I will read every application carefully. Due to the volume of emails received, I am sorry that only shortlisted applicants will be contacted.
+Please send the following documents to me. I will read every application carefully. I am sorry that only shortlisted applicants will be contacted due to the volume of emails received.
 
 1. CV.
 2. Transcripts.
