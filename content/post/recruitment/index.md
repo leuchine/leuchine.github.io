@@ -1,10 +1,12 @@
 ---
-title: Student Recruitment
+title: Recruitment
 subtitle: ""
+date: 2022-05-18T11:50:06.017Z
 summary: ""
 draft: false
 featured: false
 authors: []
+lastmod: 2022-04-30T11:50:06.017Z
 tags: []
 categories: []
 projects: []
@@ -15,15 +17,15 @@ image:
   preview_only: false
   filename: featured.jpg
 ---
-I have multiple fully-funded PhD, MPhil, Postdoc, RA, and intern positions at the Department of Computer Science, the University of Hong Kong. I am affiliated with [the HKU-SCF FinTech Academy](https://fintechacademy.cs.hku.hk/) and [the HKU NLP group](https://nlp.cs.hku.hk/).
+I have multiple fully-funded PhD, MPhil, postdoc, RA, and intern positions available at the Department of Computer Science, the University of Hong Kong. I am affiliated with [the HKU-SCF FinTech Academy](https://fintechacademy.cs.hku.hk/) and [the HKU NLP group](https://nlp.cs.hku.hk/).
 
 #### Goal and Style
 
-The goal of research is to generate knowledge and train new researchers. The prime motivation of publishing papers is to provide insights and make real-world impact. I hope to build a close-knit and focused group, where I value one-on-one meetings with group members and team collaboration. Eventually, I hope my students can develop their own research tastes and pursue their research agenda independently. 
+The goal of research is to generate knowledge and train new researchers. The prime motivation of publishing papers is to provide insights and make real-world impact. I hope to build a close-knit and focused group, where I value one-on-one meetings with group members and team collaboration. Eventually, I hope my team members can develop their own research tastes and pursue their research agenda independently. 
 
 #### Ongoing Projects
 
-My research interests include natural language processing and machine learning. I value real-world applications. Here are some ongoing projects in my research group. 
+My research interests include natural language processing and machine learning. Here are some ongoing projects in my research group. 
 
 1. Natural language processing: large language models and data-centric AI (e.g. data quality and synthetic data generation).
 2. AI for finance: financial NLP and AI for blockchain/web3.
@@ -31,7 +33,7 @@ My research interests include natural language processing and machine learning. 
 
 #### Documents
 
-To get to know applicants better, please send the following documents to me. I will read every application carefully. Due to the volume of emails, I am sorry that I cannot respond to every email.
+To get to know applicants better, please send the following documents to me. I will read every application carefully. Due to the volume of emails received, I am sorry that only shortlisted applicants will be contacted.
 
 1. CV.
 2. Transcripts.
