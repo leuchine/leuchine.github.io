@@ -128,4 +128,23 @@ data-background-image="/media/boards.jpg"
 &lt;h1 id="homepage">Homepage&lt;/h1>
 &lt;p>type: widget_page&lt;/p>
 &lt;h1 id="homepage-is-headless-other-widget-pages-are-not">Homepage is headless, other widget pages are not.&lt;/h1>
-&lt;h2 id="headless-true">headless: true&lt;/h2></description></item></channel></rss>
+&lt;h2 id="headless-true">headless: true&lt;/h2></description></item><item><title>Student Recruitment</title><link>https://example.com/post/recruitment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/post/recruitment/</guid><description>&lt;p>I have multiple fully-funded PhD, MPhil, Postdoc, RA, and intern positions at the Department of Computer Science, the University of Hong Kong. I am affiliated with &lt;em>&lt;a href="https://fintechacademy.cs.hku.hk/" target="_blank" rel="noopener">the HKU-SCF FinTech Academy&lt;/a>&lt;/em> and &lt;em>&lt;a href="https://nlp.cs.hku.hk/" target="_blank" rel="noopener">the HKU NLP group&lt;/a>&lt;/em>.&lt;/p>
+&lt;h4 id="goal-and-style">Goal and Style&lt;/h4>
+&lt;p>The goal of research is to generate knowledge and train new researchers. I have worked with a few amazing researchers and mentors and I do believe in the power of advising. I hope to build a close-knit and focused group, where I value one-on-one meetings with group members and team collaboration. The prime motivation for publishing papers is to provide insights and make real-world impact. Eventually, I hope my students can develop their own research tastes and pursue their research agenda independently. &lt;/p>
+&lt;h4 id="ongoing-projects">Ongoing Projects&lt;/h4>
+&lt;p>My research interests include natural language processing and machine learning. I value real-world applications. Here are some ongoing projects in my research group. &lt;/p>
+&lt;ol>
+&lt;li>Natural language processing: large language models and data-centric AI (e.g. data quality and synthetic data generation).&lt;/li>
+&lt;li>AI for finance: financial NLP and AI for blockchain/web3.&lt;/li>
+&lt;li>AI for science: sequential models (e.g. transformer) and relational models (e.g. graph neural networks) for proteins and molecules.&lt;/li>
+&lt;/ol>
+&lt;h4 id="documents">Documents&lt;/h4>
+&lt;p>To get to know applicants better, please send the following documents to me. I will read every application carefully. Due to the volume of emails, I am sorry that I cannot respond to every email.&lt;/p>
+&lt;ol>
+&lt;li>CV.&lt;/li>
+&lt;li>Transcripts.&lt;/li>
+&lt;li>Research proposal.&lt;/li>
+&lt;li>Selected publications (if any).&lt;/li>
+&lt;li>Github (if any).&lt;/li>
+&lt;li>TOEFL/GRE/IELTS (if any).&lt;/li>
+&lt;/ol></description></item></channel></rss>
