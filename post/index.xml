@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | Qi Liu's Homepage</title><link>https://example.com/post/</link><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Posts</title><link>https://example.com/post/</link></image></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | Qi Liu's Homepage</title><link>https://example.com/post/</link><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 May 2022 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Posts</title><link>https://example.com/post/</link></image><item><title>Recruitment</title><link>https://example.com/post/recruitment/</link><pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate><guid>https://example.com/post/recruitment/</guid><description>&lt;p>I have multiple fully-funded PhD, MPhil, postdoc, RA, and intern positions available at the Department of Computer Science, the University of Hong Kong. I am affiliated with &lt;a href="https://fintechacademy.cs.hku.hk/" target="_blank" rel="noopener">the HKU-SCF FinTech Academy&lt;/a> and &lt;a href="https://nlp.cs.hku.hk/" target="_blank" rel="noopener">the HKU NLP group&lt;/a>.&lt;/p>
+&lt;h4 id="goal-and-style">Goal and Style&lt;/h4>
+&lt;p>The goal of research is to generate knowledge and train new researchers. The prime motivation of publishing papers is to provide insights and make real-world impact. I hope to build a close-knit and focused group, where I value one-on-one meetings with group members and team collaboration. Eventually, I hope my team members can develop their own research tastes and pursue their research agenda independently. &lt;/p>
+&lt;h4 id="ongoing-projects">Ongoing Projects&lt;/h4>
+&lt;p>My research interests include natural language processing and machine learning. Here are some ongoing projects in my research group. &lt;/p>
+&lt;ol>
+&lt;li>Natural language processing: large language models and data-centric AI (e.g. data quality and synthetic data generation).&lt;/li>
+&lt;li>AI for finance: financial NLP and AI for blockchain/web3.&lt;/li>
+&lt;li>AI for science: sequential models (e.g. transformer) and relational models (e.g. graph neural networks) for proteins and molecules.&lt;/li>
+&lt;/ol>
+&lt;h4 id="documents">Documents&lt;/h4>
+&lt;p>To get to know applicants better, please send the following documents to me. I will read every application carefully. Due to the volume of emails received, I am sorry that only shortlisted applicants will be contacted.&lt;/p>
+&lt;ol>
+&lt;li>CV.&lt;/li>
+&lt;li>Transcripts.&lt;/li>
+&lt;li>Research proposal.&lt;/li>
+&lt;li>Selected publications (if any).&lt;/li>
+&lt;li>Github (if any).&lt;/li>
+&lt;li>TOEFL/GRE/IELTS (if any).&lt;/li>
+&lt;/ol></description></item></channel></rss>
