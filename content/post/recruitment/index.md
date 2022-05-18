@@ -1,12 +1,10 @@
 ---
 title: Student Recruitment
 subtitle: ""
-date: 2022-05-18T11:50:06.017Z
 summary: ""
 draft: false
 featured: false
 authors: []
-lastmod: 2022-05-18T11:50:06.017Z
 tags: []
 categories: []
 projects: []
