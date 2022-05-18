@@ -13,7 +13,7 @@ social:
     link: mailto:qi.liu@cs.ox.ac.uk
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=Y-OeKMwAAAAJ&hl=zh-CN
+    link: https://scholar.google.com/citations?user=Y-OeKMwAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/leuchine
