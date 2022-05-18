@@ -15,11 +15,11 @@ image:
   preview_only: false
   filename: featured.jpg
 ---
-I have multiple fully-funded PhD, MPhil, Postdoc, RA, and intern positions at the Department of Computer Science, the University of Hong Kong. I am affiliated with *[the HKU-SCF FinTech Academy](https://fintechacademy.cs.hku.hk/)* and *[the HKU NLP group](https://nlp.cs.hku.hk/)*.
+I have multiple fully-funded PhD, MPhil, Postdoc, RA, and intern positions at the Department of Computer Science, the University of Hong Kong. I am affiliated with [the HKU-SCF FinTech Academy](https://fintechacademy.cs.hku.hk/) and [the HKU NLP group](https://nlp.cs.hku.hk/).
 
 #### Goal and Style
 
-The goal of research is to generate knowledge and train new researchers. I have worked with a few amazing researchers and mentors and I do believe in the power of advising. I hope to build a close-knit and focused group, where I value one-on-one meetings with group members and team collaboration. The prime motivation for publishing papers is to provide insights and make real-world impact. Eventually, I hope my students can develop their own research tastes and pursue their research agenda independently. 
+The goal of research is to generate knowledge and train new researchers. The prime motivation of publishing papers is to provide insights and make real-world impact. I hope to build a close-knit and focused group, where I value one-on-one meetings with group members and team collaboration. Eventually, I hope my students can develop their own research tastes and pursue their research agenda independently. 
 
 #### Ongoing Projects
 
