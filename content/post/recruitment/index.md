@@ -1,12 +1,12 @@
 ---
 title: Student Recruitment
 subtitle: ""
-date: 2022-04-30T11:50:06.017Z
+date: 2022-05-18T11:50:06.017Z
 summary: ""
 draft: false
 featured: false
 authors: []
-lastmod: 2022-04-30T11:50:06.017Z
+lastmod: 2022-05-18T11:50:06.017Z
 tags: []
 categories: []
 projects: []
@@ -17,7 +17,7 @@ image:
   preview_only: false
   filename: featured.jpg
 ---
-I have multiple fully-funded PhD, MPhil, Postdoc, RA, and intern positions at the University of Hong Kong. 
+I have multiple fully-funded PhD, MPhil, Postdoc, RA, and intern positions at the Department of Computer Science, the University of Hong Kong. I am affiliated with *[the HKU-SCF FinTech Academy](https://fintechacademy.cs.hku.hk/)* and *[the HKU NLP group](https://nlp.cs.hku.hk/)*.
 
 #### Goal and Style
 
