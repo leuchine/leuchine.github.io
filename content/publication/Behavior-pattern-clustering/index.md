@@ -11,7 +11,7 @@ authors:
   - Anan Liu
   - Qi Liu
   - Qinming He
-publication: In *Multimedia Tools and Applicationss*
+publication: In *Multimedia Tools and Applications*
 publication_short: In *MTAP*
 featured: false
 image:
