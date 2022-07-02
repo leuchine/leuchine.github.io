@@ -1,6 +1,6 @@
 ---
 draft: false
-url_pdf: https://arxiv.org/pdf/2206.00362.pdf
+url_pdf: https://arxiv.org/abs/2206.15475
 title: "Causal Machine Learning: A Survey and Open Problems"
 publication_types:
   - "1"
