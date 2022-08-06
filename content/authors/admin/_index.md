@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:qi.liu@cs.ox.ac.uk
+    link: mailto:liuqi@cs.hku.hk
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=Y-OeKMwAAAAJ
