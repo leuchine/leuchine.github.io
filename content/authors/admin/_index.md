@@ -1,6 +1,6 @@
 ---
 title: Qi Liu
-role: PhD Student at the University of Oxford
+role: Assistant Professor at the University of Hong Kong
 avatar_filename: avatar.jpg
 bio: ""
 interests:
@@ -22,8 +22,10 @@ social:
     link: https://www.linkedin.com/in/leuchine/
     label: ""
 organizations:
-  - name: University of Oxford
-    url: https://www.ox.ac.uk/
+  - name: The University of Hong Kong
+    url: https://www.cs.hku.hk/
+  - name: Reka
+    url: https://reka.ai/
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -39,6 +41,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-<p>I am a PhD student at the <a href="http://www.ox.ac.uk/">University of Oxford</a>, fortunately advised by <a href="http://mkusner.github.io/">Matt Kusner</a> and <a href="https://www.cs.ox.ac.uk/people/phil.blunsom/">Phil Blunsom</a>. My PhD study is generously supported by <a href="https://deepmind.com/">Google DeepMind</a>. My  research interests include natural language processing and machine learning. I also spent some time at <a href="https://deepmind.com/">Google DeepMind</a>, <a href="https://research.facebook.com/">Facebook AI Research</a>, and <a href="https://www.microsoft.com/en-us/research/">Microsoft Research</a>.</p>
+<p>I am an assistant professor at <a href="https://www.cs.hku.hk/">the Department of Computer Science</a>, <a href="https://www.hku.hk/">the University of Hong Kong</a>, and a cofounder of <a href="https://reka.ai/">Reka</a>. My research interests include natural language processing and machine learning. I also spent some time at <a href="https://deepmind.com/">Google DeepMind</a>, <a href="https://research.facebook.com/">Facebook AI Research</a>, and <a href="https://www.microsoft.com/en-us/research/">Microsoft Research</a>.</p>
 
-<p>I will be starting as an assistant professor at <a href="https://www.cs.hku.hk/">the Department of Computer Science</a>, <a href="https://www.hku.hk/">the University of Hong Kong</a> in Fall 2022. I have multiple fully-funded PhD, MPhil, postdoc, RA, and intern positions available. Please read <a href="https://leuchine.github.io/post/recruitment/">this</a> before contacting me.</p>
+<p>I have multiple fully-funded PhD, MPhil, postdoc, RA, and intern positions available at the University of Hong Kong. Please read <a href="https://leuchine.github.io/post/recruitment/">this</a> before contacting me.</p>
+
+<p>Reka is hiring for platform and machine learning. <a href="mailto:contact@reka.ai">Email</a> us for more information.</p>
