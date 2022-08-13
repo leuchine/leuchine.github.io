@@ -24,8 +24,6 @@ social:
 organizations:
   - name: The University of Hong Kong
     url: https://www.cs.hku.hk/
-  - name: Reka
-    url: https://reka.ai/
 education:
   courses:
     - course: PhD in Artificial Intelligence
