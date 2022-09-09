@@ -39,6 +39,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-<p>I am an assistant professor at <a href="https://www.cs.hku.hk/">the Department of Computer Science</a>, <a href="https://www.hku.hk/">the University of Hong Kong</a>. My research interests include natural language processing and machine learning. I also spent some time at <a href="https://deepmind.com/">Google DeepMind</a>, <a href="https://research.facebook.com/">Facebook AI Research</a>, and <a href="https://www.microsoft.com/en-us/research/">Microsoft Research</a>.</p>
+<p>I am an assistant professor at <a href="https://www.cs.hku.hk/">the Department of Computer Science</a>, <a href="https://www.hku.hk/">the University of Hong Kong</a>, and a cofounder of <a href="http://reka.ai/">Reka</a>. My research interests include natural language processing and machine learning. I also spent some time at <a href="https://deepmind.com/">Google DeepMind</a>, <a href="https://research.facebook.com/">Facebook AI Research</a>, and <a href="https://www.microsoft.com/en-us/research/">Microsoft Research</a>.</p>
 
 <p>I have multiple fully-funded PhD, MPhil, postdoc, RA, and intern positions available at the University of Hong Kong. Please read <a href="https://leuchine.github.io/post/recruitment/">this</a> before contacting me.</p>
+
+<p>Reka is hiring for platform and machine learning. <a href="mailto:contact@reka.ai">Email</a> us for more information.</p>
