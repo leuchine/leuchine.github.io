@@ -55,7 +55,7 @@ experience:
     company_logo: sutd
     location: Singapore
     date_start: '2017-02-01'
-    date_end: '2018-06-01'
+    date_end: '2018-02-01'
     description: 'Advisor: Yue Zhang'
 
   - title: Research Intern
