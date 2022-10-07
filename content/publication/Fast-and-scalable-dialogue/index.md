@@ -10,7 +10,7 @@ authors:
   - Qi Liu
   - Kam-Fai Wong
 publication: In *North American Chapter of the Association for Computational Linguistics*
-publication_short: In *NAACL*
+publication_short: In *NAACL Short Paper*
 featured: false
 image:
   filename: featured

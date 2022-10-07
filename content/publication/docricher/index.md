@@ -13,7 +13,7 @@ authors:
   - Shubham Goyal
   - Jisong Yang
 publication: In *ACM Special Interest Group on Management of Data*
-publication_short: In *SIGMOD*
+publication_short: In *SIGMOD Demo Paper*
 featured: false
 image:
   filename: featured
