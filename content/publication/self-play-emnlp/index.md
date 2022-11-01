@@ -1,10 +1,9 @@
 ---
 draft: false
-title: Augmenting Multi-Turn Text-to-SQL Datasets with Self-Play
 url_pdf: https://arxiv.org/abs/2210.12096
+title: Augmenting Multi-Turn Text-to-SQL Datasets with Self-Play
 publication_types:
   - "1"
-url_pdf: https://leuchine.github.io
 authors:
   - Qi Liu
   - Zihuiwen Ye
