@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Augmenting Multi-Turn Text-to-SQL Datasets with Self-Play
+url_pdf: https://arxiv.org/abs/2210.12096
 publication_types:
   - "1"
 url_pdf: https://leuchine.github.io
@@ -18,4 +19,5 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2022-10-06T05:55:18.452Z
+url_code: https://github.com/leuchine/self_play_picard
 ---
