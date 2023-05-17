@@ -1,7 +1,7 @@
 ---
 draft: false
-title: MSSRNet: Manipulating Sequential Style Representation for Unsupervised Text Style Transfer
 url_pdf: http://leuchine.github.io
+title: MSSRNet: Manipulating Sequential Style Representation for Unsupervised Text Style Transfer
 publication_types:
   - "1"
 authors:
