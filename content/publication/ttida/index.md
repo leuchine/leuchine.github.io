@@ -1,7 +1,7 @@
 ---
 draft: false
 url_pdf: https://arxiv.org/abs/2304.08821
-title: TTIDA: Controllable Generative Data Augmentation via Text-to-Text and Text-to-Image Models
+title: "TTIDA: Controllable Generative Data Augmentation via Text-to-Text and Text-to-Image Models"
 publication_types:
   - "1"
 authors:
