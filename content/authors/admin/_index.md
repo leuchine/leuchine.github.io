@@ -28,13 +28,10 @@ education:
   courses:
     - course: Ph.D. in Artificial Intelligence
       institution: "University of Oxford, Advisors: Phil Blunsom, Matt Kusner"
-      year: 2022
     - course: M.Sc in Computer Science
       institution: "National University of Singapore, Advisor: Anthony K.H. Tung"
-      year: 2016
     - course: BEng in Computer Science
       institution: Shandong University
-      year: 2014
 email: ""
 superuser: true
 highlight_name: true
