@@ -1,6 +1,7 @@
 ---
 draft: false
 title: "MSSRNet: Manipulating Sequential Style Representation for Unsupervised Text Style Transfer"
+url_pdf: https://arxiv.org/pdf/2306.07994.pdf
 publication_types:
   - "1"
 authors:

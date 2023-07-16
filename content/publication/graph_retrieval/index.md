@@ -13,12 +13,12 @@ authors:
   - Song Le
   - Bernardo Cuenca Grau
   - Qi Liu
-publication: In *arXiv*
-publication_short: In *arXiv*
+publication: In *ECAI*
+publication_short: In *ECAI*
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-06-01T05:55:18.452Z
+date: 2023-01-01T05:55:18.452Z
 ---
