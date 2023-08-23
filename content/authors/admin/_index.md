@@ -41,4 +41,4 @@ computer science from <a href="https://www.ox.ac.uk/">the University of Oxford</
 
 <p>I have multiple fully-funded PhD, MPhil, postdoc, RA, and intern positions available at the University of Hong Kong. <a href="mailto:liuqi@cs.hku.hk">Email</a> me for more information.</p>
 
-<p>Reka is hiring for platform and machine learning. <a href="mailto:contact@reka.ai">Email</a> us for more information. We are committed to the development of multimodal foundation models.</p>
+<p>Reka is hiring for platform and machine learning. <a href="mailto:contact@reka.ai">Email</a> us for more information. We are an AGI company committed to the development of large foundation models.</p>
