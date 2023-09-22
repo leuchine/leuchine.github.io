@@ -9,15 +9,14 @@ authors:
   - Jean Kaddour
   - Shengchao Liu
   - Jian Tang
-  - Matt Kusner
   - Joan Lasenby
   - Qi Liu
-publication: In *arXiv*
-publication_short: In *arXiv*
+publication: In *NeurIPS Datasets and Benchmarks*
+publication_short: In *NeurIPS Datasets and Benchmarks*
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-06-16T05:55:18.452Z
+date: 2023-09-19T05:55:18.452Z
 ---
