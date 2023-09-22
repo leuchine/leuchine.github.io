@@ -13,12 +13,12 @@ authors:
   - Zhi-Hong Deng
   - Lingpeng Kong
   - Qi Liu
-publication: In *bioRxiv*
-publication_short: In *bioRxiv*
+publication: In *NeurIPS*
+publication_short: In *NeurIPS*
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2023-06-06T05:55:18.452Z
+date: 2023-09-22T05:55:18.452Z
 ---

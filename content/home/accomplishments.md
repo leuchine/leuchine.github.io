@@ -25,6 +25,14 @@ date_format: Jan 2006
 item:
   - certificate_url: 
     date_end: ''
+    date_start: '2023-04-01'
+    description: ''
+    organization: Forbes
+    organization_url: ''
+    title: Forbes U30 Asia List
+    url: ''
+  - certificate_url: 
+    date_end: ''
     date_start: '2022-01-01'
     description: ''
     organization: AMiner
