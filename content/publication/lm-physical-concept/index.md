@@ -9,15 +9,15 @@ authors:
   - Jingjing Xu
   - Qingxiu Dong
   - Ce Zheng
-  - Qi Liu
   - Lingpeng Kong
   - Xu Sun
-publication: In *arXiv*
-publication_short: In *arXiv*
+  - Qi Liu
+publication: In *EMNLP*
+publication_short: In *EMNLP*
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2023-06-05T05:55:18.452Z
+date: 2023-10-08T05:55:18.452Z
 ---
