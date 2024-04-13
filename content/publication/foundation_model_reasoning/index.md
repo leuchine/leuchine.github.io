@@ -5,7 +5,7 @@ title: "A survey of reasoning with foundation models"
 publication_types:
   - "1"
 authors:
-  - Jiankai Sun et al.
+  - Jiankai Sun
 publication: In *arXiv*
 publication_short: In *arXiv*
 featured: false
