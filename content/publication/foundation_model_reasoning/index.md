@@ -7,6 +7,8 @@ publication_types:
 publication: In *arXiv*
 publication_short: In *arXiv*
 featured: false
+authors:
+  - Jiankai Sun et al.
 image:
   filename: featured
   focal_point: Smart
