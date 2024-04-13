@@ -4,11 +4,11 @@ url_pdf: https://arxiv.org/abs/2312.11562
 title: "A survey of reasoning with foundation models"
 publication_types:
   - "1"
+authors:
+  - Jiankai Sun et al.
 publication: In *arXiv*
 publication_short: In *arXiv*
 featured: false
-authors:
-  - Jiankai Sun et al.
 image:
   filename: featured
   focal_point: Smart
