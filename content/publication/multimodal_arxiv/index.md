@@ -12,12 +12,12 @@ authors:
   - Xiachong Feng
   - Lingpeng Kong
   - Qi Liu
-publication: In *arXiv*
-publication_short: In *arXiv*
+publication: In *ACL*
+publication_short: In *ACL*
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2024-03-01T05:55:18.452Z
+date: 2024-05-16T05:55:18.452Z
 ---

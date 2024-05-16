@@ -11,12 +11,12 @@ authors:
   - Masood Ahmed
   - Zhenguang Liu
   - Qi Liu
-publication: In *arXiv*
-publication_short: In *arXiv*
+publication: In *ACL Findings*
+publication_short: In *ACL Findings*
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2024-01-23T05:55:18.452Z
+date: 2024-05-15T05:55:18.452Z
 ---
