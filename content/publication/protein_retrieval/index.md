@@ -15,12 +15,12 @@ authors:
   - Yang Lu
   - Qi Liu
   - Lingpeng Kong
-publication: In *bioRxiv*
-publication_short: In *bioRxiv*
+publication: In *EMNLP*
+publication_short: In *EMNLP*
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2023-02-24T05:55:18.452Z
+date: 2024-09-19T05:55:18.452Z
 ---
