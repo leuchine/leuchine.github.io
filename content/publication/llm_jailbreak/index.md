@@ -11,8 +11,8 @@ authors:
   - Zhenguo Li
   - Qi Liu
   - Lingpeng Kong
-publication: In * arXiv*
-publication_short: In * arXiv*
+publication: In *arXiv*
+publication_short: In *arXiv*
 featured: false
 image:
   filename: featured
