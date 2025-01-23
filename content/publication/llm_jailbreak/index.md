@@ -11,12 +11,12 @@ authors:
   - Zhenguo Li
   - Qi Liu
   - Lingpeng Kong
-publication: In *arXiv*
-publication_short: In *arXiv*
+publication: In *International Conference on Learning Representations*
+publication_short: In *ICLR*
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2024-06-20T05:55:18.452Z
+date: 2025-01-23T05:55:18.452Z
 ---

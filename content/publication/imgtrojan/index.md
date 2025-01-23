@@ -10,12 +10,12 @@ authors:
   - Lei Li
   - Qi Liu
   - Lingpeng Kong
-publication: In *arXiv*
-publication_short: In *arXiv*
+publication: In *Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics*
+publication_short: In *NAACL*
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2024-03-05T05:55:18.452Z
+date: 2025-01-22T05:55:18.452Z
 ---
