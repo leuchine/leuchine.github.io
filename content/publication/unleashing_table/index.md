@@ -7,15 +7,17 @@ publication_types:
 authors:
   - Yazheng Yang
   - Yuqi Wang
+  - Yaxuan Li
   - Sankalok Sen
   - Lei Li
+  - Lin Qiu
   - Qi Liu
-publication: In *arXiv*
-publication_short: In *arXiv*
+publication: In *TKDE*
+publication_short: In *TKDE*
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2024-03-29T05:55:18.452Z
+date: 2026-02-25T05:55:18.452Z
 ---
