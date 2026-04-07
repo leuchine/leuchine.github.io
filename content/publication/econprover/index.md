@@ -5,14 +5,14 @@ title: "EconProver: Towards More Economical Test-Time Scaling for Automated Theo
 publication_types:
   - "1"
 authors:
-- Mukai Li
-- Linfeng Song
-- Zhenwen Liang
-- Jiahao Xu
-- Shansan Gong
-- Qi Liu
-- Haitao Mi
-- Dong Yu
+  - Mukai Li
+  - Linfeng Song
+  - Zhenwen Liang
+  - Jiahao Xu
+  - Shansan Gong
+  - Qi Liu
+  - Haitao Mi
+  - Dong Yu
 publication: In *The 64th Annual Meeting of the Association for Computational Linguistics*
 publication_short: In *ACL*
 featured: false
@@ -20,5 +20,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2025-04-6T06:55:18.452Z
+date: 2026-04-6T06:55:18.452Z
 ---

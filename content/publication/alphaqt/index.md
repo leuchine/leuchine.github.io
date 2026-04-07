@@ -5,15 +5,15 @@ title: "AlphaQT-Bench: Diagnosing the Gap between Financial Code Generation and 
 publication_types:
   - "1"
 authors:
-- Sichun Luo
-- Yi Huang
-- Shichang Meng
-- Fengyuan Liu
-- Mukai Li
-- Qinghua Yao
-- Zefa Hu
-- Junlan Feng
-- Qi Liu
+  - Sichun Luo
+  - Yi Huang
+  - Shichang Meng
+  - Fengyuan Liu
+  - Mukai Li
+  - Qinghua Yao
+  - Zefa Hu
+  - Junlan Feng
+  - Qi Liu
 publication: In *The 64th Annual Meeting of the Association for Computational Linguistics*
 publication_short: In *ACL findings*
 featured: false
@@ -21,5 +21,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2025-04-6T04:55:18.452Z
+date: 2026-04-6T04:55:18.452Z
 ---
